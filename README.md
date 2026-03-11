@@ -1,6 +1,6 @@
 # Bellabeat Smart Device Usage Analysis
 ## Dashboard Preview
-![Bellabeat Dashboard](Bellabeat-dashboard.png)
+![Bellabeat Dashboard](Bellabeat%20dashboard.png)
 ## Project Overview
 This project is part of the Google Data Analytics Professional Certificate capstone.
 The goal of the analysis is to explore smart device usage patterns and generate data-driven insights to support Bellabeat's marketing and product strategy.
